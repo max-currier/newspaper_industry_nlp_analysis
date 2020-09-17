@@ -72,3 +72,14 @@ I also broke out separate Tableau dashboards for several individual topics (revu
 These dashboards all allow the user to track how much the industry was talking about key issues over time and map them against real world phenomena. In this way, it is possible to quantify the industry's concern with these key issues and contextualize them to rationalize these levels of concern.
 
 My analysis found that trending topics were closely aligned to actual business conditions. Looking forward, we can see that the growth in topic strength for social media, fake news, and freedom of the press indicates that these issues will be of increasing importance to the U.S. newspaper publishing industry.
+
+## Tools
+* Jupyter Notebook
+* Tableau
+* Pandas
+* Numpy
+* NLTK
+* Scikit-learn
+* BeuatifulSoup
+* Matplotlib
+* Seaborn
