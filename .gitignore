@@ -4,6 +4,7 @@
 # Don't track these files
 .DS_Store
 .bash_profile
+.ipynb_checkpoints/
 
 # Packages to ignore #
 ######################
@@ -18,3 +19,4 @@
 *.tar
 *.zip
 *.csv
+*.mov
