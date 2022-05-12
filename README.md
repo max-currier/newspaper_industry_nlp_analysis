@@ -42,7 +42,7 @@ As a result, the key metric I use in my analysis is **topic strength**, aka the 
 
 ## Topic Modeling
 
-AllFor this project I was able to scrap 69,848 articles published over 27 years. Articles were categorized according to their single strongest topic correlation, represented by the following t-SNE visualization
+For this project I was able to scrap 69,848 articles published over 27 years. Articles were categorized according to their single strongest topic correlation, represented by the following t-SNE visualization
 
 <img src="viz/tsne.svg" alt="topic distribution"/>
 
